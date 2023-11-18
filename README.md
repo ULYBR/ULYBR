@@ -1,6 +1,6 @@
 ### Olá! Eu sou Ulysses Leal ✌️
 
-Sou um desenvolvedor apaixonado por tecnologia, dedicado a aprimorar constantemente minhas habilidades e a criar soluções inovadoras. Meu objetivo é utilizar a programação para transformar positivamente a vida das pessoas. Atualmente, estou cursando Sistemas da Informação, buscando conhecimentos sólidos e práticos para enfrentar os desafios do mundo da tecnologia.
+Desenvolvedor Full Stack com experiência abrangente em Typescript, Node.js, React, Next.js, MongoDB e Postgres. Habilidades sólidas na implementação de pipelines ETL eficientes, web scraping avançado, otimizações de desempenho e integração de APIs. Busco desafios que explorem minha expertise técnica em todos os aspectos do desenvolvimento.
 
 <div align="center">
   <a href="https://github.com/ULYBR">

@@ -29,7 +29,5 @@ Além dessas habilidades técnicas, possuo características que contribuem para 
 
 Estou em constante evolução, acompanhando as tendências da indústria e participando de projetos desafiadores. Tenho entusiasmo em contribuir para projetos inovadores e criar soluções impactantes que melhorem a vida das pessoas.
 
-Se você tiver mais informações para adicionar ou quiser fazer alguma alteração, é só me avisar!
-
  </div>
  <br/>

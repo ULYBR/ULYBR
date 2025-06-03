@@ -1,6 +1,8 @@
 ### Olá! Eu sou Ulysses Leal ✌️
 
-Desenvolvedor Full Stack com experiência abrangente em Typescript, Node.js, React, Next.js, MongoDB e Postgres. Habilidades sólidas na implementação de pipelines ETL eficientes, web scraping avançado, otimizações de desempenho e integração de APIs. Busco desafios que explorem minha expertise técnica em todos os aspectos do desenvolvimento.
+Desenvolvedor Back-end Pleno com mais de 3 anos de experiência, especializado em sistemas financeiros escaláveis e desenvolvimento de APIs RESTful e GraphQL. Atualmente, atuo na BanQi, onde desenvolvo soluções robustas utilizando Node.js, NestJS, TypeScript e AWS, processando milhões de transações com alta eficiência e segurança.
+
+Tenho experiência consolidada em CI/CD (GitHub Actions, Spacelift), arquitetura limpa, e metodologias ágeis, além de habilidades em mensageria com Kafka e RabbitMQ, e infraestrutura com Docker e Terraform.
 
 <div align="center">
   <a href="https://github.com/ULYBR">
@@ -11,23 +13,23 @@ Desenvolvedor Full Stack com experiência abrangente em Typescript, Node.js, Rea
 
 ## Tecnologias e Habilidades
 
-Minhas principais habilidades e tecnologias incluem:
+- **Linguagens e Frameworks:** Node.js, Java, NestJS, TypeScript, Spring Boot
+- **Cloud e Infraestrutura:** AWS (S3, DynamoDB, EventBridge, API Gateway), Docker, Terraform
+- **Mensageria:** Kafka, RabbitMQ, Redis
+- **DevOps:** CI/CD com GitHub Actions e Spacelift
+- **Metodologias:** TDD, Arquitetura Limpa, Agile
+- **APIs:** Desenvolvimento de APIs RESTful e GraphQL escaláveis e seguras
 
-- **Desenvolvimento backend** com Node.js e TypeScript.
-- **Desenvolvimento frontend** com JavaScript, HTML e CSS.
-- **Docker** para facilitar a criação e implantação de ambientes.
-- Framework **Next.js** para construção de aplicativos web modernos.
-- Bancos de dados **PostgreSQL** e **MongoDB** para armazenamento eficiente de informações.
+## Soft Skills
 
-Além dessas habilidades técnicas, possuo características que contribuem para o meu sucesso como profissional:
+- Comunicação clara e objetiva
+- Trabalho colaborativo em times multidisciplinares
+- Proatividade e aprendizado contínuo
+- Organização e gestão eficiente de prazos
+- Resolução criativa de problemas complexos
 
-- **Comunicação efetiva** para transmitir ideias e informações de forma clara.
-- **Trabalho em equipe** para colaborar produtivamente e compartilhar conhecimentos.
-- **Proatividade** em identificar problemas, buscar soluções e aprender continuamente.
-- **Organização** e cumprimento de prazos para entregar resultados de qualidade.
-- **Resolução de problemas** de forma criativa e eficaz.
+Estou sempre em busca de novos desafios para crescer profissionalmente e contribuir com soluções inovadoras no setor financeiro e tecnológico.
 
-Estou em constante evolução, acompanhando as tendências da indústria e participando de projetos desafiadores. Tenho entusiasmo em contribuir para projetos inovadores e criar soluções impactantes que melhorem a vida das pessoas.
+---
 
- </div>
- <br/>
+Sinta-se à vontade para explorar meus projetos e contribuições nos repositórios!

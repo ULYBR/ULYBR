@@ -1,35 +1,84 @@
-### Olá! Eu sou Ulysses Leal ✌️
+# Ulysses Leal
 
-Desenvolvedor Back-end com mais de 5 anos de experiência, especializado em sistemas financeiros escaláveis e desenvolvimento de APIs RESTful e GraphQL. Atualmente, atuo na BanQi, onde desenvolvo soluções robustas utilizando Node.js, NestJS, TypeScript e AWS, processando milhões de transações com alta eficiência e segurança.
+**Backend Software Engineer** · Node.js · TypeScript · AWS · Microservices
 
-Tenho experiência consolidada em CI/CD (GitHub Actions, Spacelift), arquitetura limpa, e metodologias ágeis, além de habilidades em mensageria com Kafka e RabbitMQ, e infraestrutura com Docker e Terraform.
-
-<div align="center">
-  <a href="https://github.com/ULYBR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ULYBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ULYBR&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>
-
-## Tecnologias e Habilidades
-
-- **Linguagens e Frameworks:** Node.js, Java, NestJS, TypeScript, Spring Boot
-- **Cloud e Infraestrutura:** AWS (S3, DynamoDB, EventBridge, API Gateway), Docker, Terraform
-- **Mensageria:** Kafka, RabbitMQ, Redis
-- **DevOps:** CI/CD com GitHub Actions e Spacelift
-- **Metodologias:** TDD, Arquitetura Limpa, Agile
-- **APIs:** Desenvolvimento de APIs RESTful e GraphQL escaláveis e seguras
-
-## Soft Skills
-
-- Comunicação clara e objetiva
-- Trabalho colaborativo em times multidisciplinares
-- Proatividade e aprendizado contínuo
-- Organização e gestão eficiente de prazos
-- Resolução criativa de problemas complexos
-
-Estou sempre em busca de novos desafios para crescer profissionalmente e contribuir com soluções inovadoras no setor financeiro e tecnológico.
+> 5+ years building **financial systems**, **payment platforms** and **core banking** services with a strong focus on reliability, observability, and clean architecture.
 
 ---
 
-Sinta-se à vontade para explorar meus projetos e contribuições nos repositórios!
+## 🚀 What I do
+
+I’m a Backend Engineer working on **core banking and billing** for **BanQi (digital bank)** via **Invillia**.
+
+I design, build, and evolve services that:
+
+- Process **millions of transactions per month** (boletos, TED/PIX, payment webhooks).
+- Run on **AWS**, leveraging **event-driven architectures**, retries and DLQs to keep **high availability**.
+- Follow **Domain-Driven Design (DDD)**, **Clean Architecture**, **SOLID** and **TDD**, with a strong focus on automated testing and observability.
+
+Day to day, I work on:
+
+- **Node.js / NestJS / TypeScript microservices** for financial and payment flows.
+- **Integrations** with external partners and platforms (core banking, ledger, gateways, etc.).
+- **CI/CD pipelines**, **CloudWatch dashboards/alerts**, DLQs and runbooks to reduce MTTR and recurring incidents.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+
+- Node.js · TypeScript · Java  
+- NestJS · Spring Boot  
+- RESTful APIs · GraphQL
+
+**Cloud, Infra & Observability**
+
+- AWS: Lambda, API Gateway, S3, DynamoDB, EventBridge, SQS, SNS, CloudWatch  
+- Docker · Terraform  
+- Structured logging, metrics, dashboards, alerts, DLQ
+
+**Messaging & Data**
+
+- Kafka · RabbitMQ · Redis  
+- PostgreSQL · MongoDB
+
+**Engineering Practices**
+
+- Microservices · Event-driven architecture  
+- Domain-Driven Design (DDD) · Clean Architecture · SOLID  
+- TDD · Jest · Integration tests (including LocalStack)  
+- CI/CD with GitHub Actions (experience with Spacelift as well)
+
+---
+
+## 🔍 How I like to build systems
+
+- **Domain-first**: model the business (payments, core banking, reconciliation) before thinking about controllers and endpoints.
+- **Testable & observable**: services with meaningful tests, logs, and metrics — not black boxes in production.
+- **Resilient by design**: timeouts, retries, idempotency, DLQs, and clear reprocessing flows.
+- **Clear contracts between teams**: integration checklists, tracing, useful logs, and lightweight alignment rituals.
+
+---
+
+## 🤝 Beyond code
+
+- Actively participate in **code reviews**, definition of standards, and helping teammates with architecture, testing, and AWS.
+- Enjoy discussing **DDD, Clean Architecture, event-driven systems, payments, and core banking**.
+- Always aiming to grow as an **engineer** (not just a “coder”), connecting technical decisions to real business impact.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+  <a href="https://github.com/ULYBR">
+    <!-- You can re-enable stats cards later if you want,
+         but keeping this clean avoids broken images -->
+    <img src="https://komarev.com/ghpvc/?username=ULYBR&color=blue" alt="Profile views" />
+  </a>
+</div>
+
+---
+
+If you want to talk about **backend architecture, payments, DDD, testing, or AWS**, feel free to reach out.

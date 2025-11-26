@@ -1,6 +1,6 @@
 ### Olá! Eu sou Ulysses Leal ✌️
 
-Desenvolvedor Back-end Pleno com mais de 3 anos de experiência, especializado em sistemas financeiros escaláveis e desenvolvimento de APIs RESTful e GraphQL. Atualmente, atuo na BanQi, onde desenvolvo soluções robustas utilizando Node.js, NestJS, TypeScript e AWS, processando milhões de transações com alta eficiência e segurança.
+Desenvolvedor Back-end com mais de 5 anos de experiência, especializado em sistemas financeiros escaláveis e desenvolvimento de APIs RESTful e GraphQL. Atualmente, atuo na BanQi, onde desenvolvo soluções robustas utilizando Node.js, NestJS, TypeScript e AWS, processando milhões de transações com alta eficiência e segurança.
 
 Tenho experiência consolidada em CI/CD (GitHub Actions, Spacelift), arquitetura limpa, e metodologias ágeis, além de habilidades em mensageria com Kafka e RabbitMQ, e infraestrutura com Docker e Terraform.
 
